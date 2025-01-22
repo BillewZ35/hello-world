@@ -1,5 +1,5 @@
 # hello-world
-## Coucou les congolais 
+## Coucou les gens 
 
 ```
 1. apt update
